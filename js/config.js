@@ -1,0 +1,1 @@
+var $_API = 'http://localhost:1337';
